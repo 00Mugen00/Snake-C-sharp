@@ -8,7 +8,6 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-//I left the tutorial at 26:43
 namespace Snake
 {
     public partial class FormGame : Form
