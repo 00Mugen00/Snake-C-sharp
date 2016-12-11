@@ -103,7 +103,7 @@ namespace Snake
                     }
                 }
             }
-            SnakeCanvas.Invalidate();
+            SnakeCanvas.Invalidate(); //This code will cause a paint event and call the Draw() method
         }
 
         private void UpdateSnake(Object sender, EventArgs e)
