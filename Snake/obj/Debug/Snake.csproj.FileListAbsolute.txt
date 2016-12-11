@@ -1,0 +1,10 @@
+c:\users\alumno\documents\visual studio 2012\Projects\Snake\Snake\bin\Debug\Snake.exe.config
+c:\users\alumno\documents\visual studio 2012\Projects\Snake\Snake\obj\Debug\Snake.csprojResolveAssemblyReference.cache
+c:\users\alumno\documents\visual studio 2012\Projects\Snake\Snake\obj\Debug\Snake.Properties.Resources.resources
+c:\users\alumno\documents\visual studio 2012\Projects\Snake\Snake\obj\Debug\Snake.csproj.GenerateResource.Cache
+c:\users\alumno\documents\visual studio 2012\Projects\Snake\Snake\bin\Debug\Snake.exe
+c:\users\alumno\documents\visual studio 2012\Projects\Snake\Snake\bin\Debug\Snake.pdb
+c:\users\alumno\documents\visual studio 2012\Projects\Snake\Snake\obj\Debug\Snake.FormGame.resources
+c:\users\alumno\documents\visual studio 2012\Projects\Snake\Snake\obj\Debug\Snake.exe
+c:\users\alumno\documents\visual studio 2012\Projects\Snake\Snake\obj\Debug\Snake.pdb
+c:\users\alumno\documents\visual studio 2012\Projects\Snake\Snake\obj\Debug\Snake.About.resources
